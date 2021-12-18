@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MemeShare</string>
+    <string name="todo">TODO</string>
+    <string name="share">share</string>
+    <string name="next">next</string>
+    <string name="send_to">Whatsapp</string>
+    <string name="noyhing">noyhing</string>
+    <string name="memeworld">memeworld</string>
+    <string name="MemeWorld">MemeWorld</string>
+
+
+</resources>
